@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Douglas Silva, tenho 20 anos e sou natural da Bahia. Atualmente estou concluindo o curso técnico em Desenvolvimento de Sistemas no Senai. Sou apaixonado por tecnologia e compartilho meus estudos e projetos através deste meu github, estou constantemente aprimorando meus conhecimentos para me tornar cada vez melhor no que gosto de fazer, que é programar, sinta-se a vontade para explorar.
+Me chamo Douglas Silva, tenho 20 anos e sou natural da Bahia. Atualmente estou concluindo o curso técnico em Desenvolvimento de Sistemas no Senai. Sou apaixonado por tecnologia e compartilho meus estudos e projetos através deste meu github, estou constantemente aprimorando meus conhecimentos para me tornar cada vez melhor no que gosto de fazer, que é programar, sinta-se a vontade para explorar! Meu site => [Portfólio](https://portfolio-beige-eight-35.vercel.app/)
 
 <p align="left">
    <a href="https://github.com/douglass154?tab=followers">
@@ -104,6 +104,14 @@ Me chamo Douglas Silva, tenho 20 anos e sou natural da Bahia. Atualmente estou c
    width="30px" 
    style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+   align="left" 
+   alt="MySQL" 
+   title="MySQL"
+   width="30px" 
+   style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
    align="left" 
