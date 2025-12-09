@@ -3,7 +3,6 @@
 **`Desenvolvedor Front-end`**
 
 Me chamo Douglas Silva, tenho 20 anos e sou natural da Bahia. Atualmente faço Faculdade de Análise e Desenvolvimento de Sistemas pela Estácio e estou concluindo o curso técnico em Desenvolvimento de Sistemas no Senai. Sou apaixonado por tecnologia e compartilho meus estudos e projetos através deste meu github, estou constantemente aprimorando meus conhecimentos para me tornar cada vez melhor no que gosto de fazer, que é programar, sinta-se a vontade para explorar! <br/>
-Meu site => [Portfólio](https://portfolio-beige-eight-35.vercel.app/)
 
 <p align="left">
    <a href="https://github.com/douglass154?tab=followers">
